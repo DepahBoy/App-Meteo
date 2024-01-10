@@ -1,2 +1,3 @@
 # App-Meteo
-Application Météo en JavaScript voir ici : https://jeremy-javadev.github.io/App-Meteo/
+Application Météo en JavaScript.
+Voir ici : https://fullstack-techboy.github.io/App-Meteo/
